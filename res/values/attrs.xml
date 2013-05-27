@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<declare-styleable name="ClockAttributeSet">
+		<attr name="android:text"/>
+		<attr name="android:textColor"/>
+		<attr name="date" format="float"/>
+		<attr name="date_past" format="boolean"/>
+	</declare-styleable>
+</resources>

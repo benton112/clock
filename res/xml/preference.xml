@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+        <EditTextPreference
+            android:key="event"
+ 			android:summary="@string/edit_defaultText"
+ 			android:title="@string/edit_textH"/>
+        <CheckBoxPreference
+            android:key="past"
+            android:title="@string/edit_dateTypeH"
+            android:defaultValue="false"
+            android:summaryOn="@string/edit_dateTypePast"
+            android:summaryOff="@string/edit_dateTypeFuture"/>
+        <Preference 
+            android:key="date"
+            android:title="@string/edit_dateH"/>
+        <Preference
+            android:key="pic"
+            android:summary="@string/edit_defaultText"
+            android:title="@string/edit_ruler_picH"/>
+        <Preference
+            android:key="back"
+            android:summary="@string/edit_defaultText"
+            android:title="@string/edit_ruler_picH"/>
+    
+
+</PreferenceScreen>

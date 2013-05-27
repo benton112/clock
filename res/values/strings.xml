@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="hello">Hello World, ClockActivity!</string>
+    <string name="app_name">Часы</string>
+    <string name="edit_textH">Событие</string>
+    <string name="edit_dateH">Установить дату</string>
+    <string name="edit_btnSave">Сохранить</string>
+    <string name="edit_defaultText">Я не курю</string>
+    <string name="edit_defaultTextEmpty">Пустое поле</string>
+    <string name="main_contextMenuHeader">Меню</string>
+    <string name="menu_help">Помощь</string>
+    <string name="menu_add">Добавить</string>
+    <string name="menu_delete">Удалить</string>
+    <string name="menu_edit">Редактировать</string>
+    <string name="menu_widget">На виджет</string>
+    <string name="main_delQuestion">Удалить запись?</string>
+    <string name="main_NoListElements">Нажмите Меню добавить</string>
+    <string name="main_days">Дни</string>
+    <string name="main_months">Месяцы</string>
+    <string name="main_years">Года</string>
+    <string name="main_weeks">Недели</string>
+    <string name="edit_exampleH">Образец</string>
+    <string name="edit_dateTypeH">Установить тип</string>
+    <string-array name="edit_dateType">
+        <item>Прошлое</item>
+        <item>Будущее</item>
+    </string-array>
+    <string name="edit_ruler_picH">Картинка</string>
+    <string name="pic_selQuestion">Выбрать картинку?</string>
+    <string name="edit_dateTypeFuture">Событие наступит</string>
+    <string name="edit_dateTypePast">Событие прошло</string>
+</resources>
