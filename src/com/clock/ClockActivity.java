@@ -1,6 +1,5 @@
 package com.clock;
 
-//test commit
 
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
